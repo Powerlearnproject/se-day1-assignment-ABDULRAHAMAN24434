@@ -112,6 +112,8 @@ Importance: Acceptance testing is essential for confirming that the software mee
 
 
 #Part 2: Introduction to AI and Prompt Engineering
+
+
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of structuring an instruction that can be interpreted and understood by a generative AI model. A prompt is natural language text describing the task that an AI should perform.
 Prompt engineering plays a vital role in interacting with AI models, particularly in the following ways:
